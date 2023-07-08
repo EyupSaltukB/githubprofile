@@ -19,6 +19,11 @@ JavaScript, HTML ve CSS kullanıldı.
 
 
 
+https://github.com/EyupSaltukB/githubprofile/assets/129687853/a433149c-0704-4ddd-94eb-eecddd5a2792
+
+
+
+
 <h4> GIF </h4>
 
 ![](images/gprofilegif.webp)
