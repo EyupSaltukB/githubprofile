@@ -1,6 +1,7 @@
-<h1>Github Profil</h1>
+<h1>Github Profil Bulma/Görüntüleme</h1>
 
-Profil görüntüleme projesi olup dinamik bir yapıya sahiptir.
+
+Profil bulma/görüntüleme projesi olup dinamik bir yapıya sahiptir.
 Geliştirilmiş versiyonu yakında eklenecektir.
 
 <h2> Kullanılan Teknolojiler</h2>
