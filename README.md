@@ -1,7 +1,7 @@
 <h1>Github Profil Bulma/Görüntüleme</h1>
 
-
-Profil bulma/görüntüleme projesi olup dinamik bir yapıya sahiptir.
+Github üzerinde profil bulmaya ve profillere erişmeye yarayan bir görüntüleme projesidir. 
+Bilgi sağlama amacıyla oluşturuldu. 
 Geliştirilmiş versiyonu yakında eklenecektir.
 
 <h2> Kullanılan Teknolojiler</h2>
